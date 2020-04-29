@@ -24,7 +24,7 @@ Things you may want to cover:
         > rspec spec/controllers/venues_controller_spec.rb
         > rspec spec/controllers/seats_controller_spec.rb
 * Deployment instructions
-    > git pull
+    > git pull https://github.com/somu1533/booking_seats_api_service.git
     > cd 
     > bundle install
     > rails server
